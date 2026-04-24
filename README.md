@@ -1,10 +1,10 @@
-# ✈️ Predictive Health Monitoring for Jet Engines (NASA C-MAPSS)
+# Predictive Health Monitoring for Jet Engines (NASA C-MAPSS)
 
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 ![Tools](https://img.shields.io/badge/Tools-SQL%20|%20Python%20|%20Power%20BI-blue)
 ![ML](https://img.shields.io/badge/Model-Random%20Forest%20Regressor-green)
 
-## 📌 Project Overview
+## Project Overview
 Unplanned jet engine failure in the aerospace industry is catastrophic and costly. This project transitions from **Reactive** to **Predictive** maintenance by leveraging the NASA Turbofan (C-MAPSS) dataset. By predicting the **Remaining Useful Life (RUL)** of engines, this solution aims to increase operational efficiency by **25%**.
 
 ## Business Impact
